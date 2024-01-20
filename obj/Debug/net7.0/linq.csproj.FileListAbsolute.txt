@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\estudos-hardskills\linq\bin\Debug\net7.0\linq.exe
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\estudos-hardskills\linq\bin\Debug\net7.0\linq.deps.json
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\estudos-hardskills\linq\bin\Debug\net7.0\linq.runtimeconfig.json
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\estudos-hardskills\linq\bin\Debug\net7.0\linq.dll
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\estudos-hardskills\linq\bin\Debug\net7.0\linq.pdb
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\estudos-hardskills\linq\obj\Debug\net7.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\estudos-hardskills\linq\obj\Debug\net7.0\linq.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\estudos-hardskills\linq\obj\Debug\net7.0\linq.AssemblyInfo.cs
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\estudos-hardskills\linq\obj\Debug\net7.0\linq.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\estudos-hardskills\linq\obj\Debug\net7.0\linq.dll
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\estudos-hardskills\linq\obj\Debug\net7.0\refint\linq.dll
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\estudos-hardskills\linq\obj\Debug\net7.0\linq.pdb
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\estudos-hardskills\linq\obj\Debug\net7.0\linq.genruntimeconfig.cache
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\estudos-hardskills\linq\obj\Debug\net7.0\ref\linq.dll
