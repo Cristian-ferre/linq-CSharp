@@ -32,11 +32,18 @@ namespace ExemplosLinq
 
             //CONSULTAS LINQs
 
-            //Filtrar pela primeira letra e Status ativo
+            //Odenar por IDs
             var result = from produto in listaProdutos
-                         where produto.Nome.ToLower().Substring(0, 1) == "m".ToLower() &&
-                         produto.Status == false
+                         orderby produto.Nome descending
+                         where produto.Nome.ToLower().Substring(0, 1) == "m".ToLower()
                          select produto;
+
+
+            //Filtrar pela primeira letra e Status ativo
+            // var result = from produto in listaProdutos
+            //              where produto.Nome.ToLower().Substring(0, 1) == "m".ToLower() &&
+            //              produto.Status == false
+            //              select produto;
 
 
             //Filtro por Primeiro caractere
